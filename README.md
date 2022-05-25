@@ -29,4 +29,4 @@ build`
 Before pushing the site, run `make test` and check that the site looks right at
 `http://localhost:4000`
 
-Push the site to `netsys.cs.berkeley.edu` by running `make push`
+Push the site to `edgecenter.cs.berkeley.edu` by running `make push`
